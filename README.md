@@ -149,6 +149,6 @@
 如果你对这个项目感兴趣，或者想探讨易经算法与 Python 编程，欢迎联系我：
 
 * 📧 **Email**: `xaminxan@gmail.com`
-* 💬 **Telegram**: `https://t.me/xaminxan`
+* 💬 **Telegram**: [Telegram](https://t.me/xaminxan)
 * 🐛 **Bug 反馈**: 请直接在 GitHub [Issues](https://github.com/xaminxan/tiebanshenshu) 中提问
 
